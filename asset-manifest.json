@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/json-placeholder-post/static/css/main.cd8fcf52.css",
+    "main.js": "/json-placeholder-post/static/js/main.4cb6045c.js",
+    "index.html": "/json-placeholder-post/index.html",
+    "main.cd8fcf52.css.map": "/json-placeholder-post/static/css/main.cd8fcf52.css.map",
+    "main.4cb6045c.js.map": "/json-placeholder-post/static/js/main.4cb6045c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd8fcf52.css",
+    "static/js/main.4cb6045c.js"
+  ]
+}
